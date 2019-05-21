@@ -1,1 +1,1 @@
-user.role=Develope;
+user.role=Developer
